@@ -5,7 +5,7 @@ HW topics
 
 HW1 - Ridge regression on MNIST
 
-HW2 - 
+HW2 - Lasso Regression, Binary Logistic Regression
 
 HW3 - Perceptron, Multivariate Gaussians and Gaussian Mixtures
 
