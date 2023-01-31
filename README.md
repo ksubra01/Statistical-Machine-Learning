@@ -1,6 +1,6 @@
 # Statistical-Machine-Learning
 
-I've included the codes I developed for the problem statements provided in a coourse I had taken: Statistical Machine Learning.
+I've included the codes I developed for the problem statements provided in a course I had taken: Statistical Machine Learning.
 
 
 Implementation of optimization algorithms, supervised and unsupervised learning algorithms.
